@@ -1,11 +1,6 @@
-## My Project
+## Project
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+CloudFormation template for an AWS blog article about : Data ingestion using AWS Step Functions, AWS IoT Events and AWS IoT Analytics.
 
 ## Security
 
